@@ -1,5 +1,7 @@
 # Hugo Partials Refs
 
+[![Hugo](https://img.shields.io/badge/Hugo-%5E0.146.0-ff4088?style=flat&logo=hugo)](https://gohugo.io/)
+
 VSCode extension for [Hugo](https://gohugo.io/) that provides IntelliSense support for partial templates, including hover information, go-to-definition navigation, and path auto-completion.
 
 ## Available functionalities
