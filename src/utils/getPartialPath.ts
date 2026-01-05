@@ -6,4 +6,4 @@ export const getPartialPath = (lineText: string) => {
   const partialPathQuoted = splitText[splitText.indexOf(partialType) + 1];
 
   return partialPathQuoted || undefined;
-}
+};

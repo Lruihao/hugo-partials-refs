@@ -1,10 +1,6 @@
-[![Version](https://vsmarketplacebadge.apphb.com/version/eliostruyf.vscode-hugo-themer.svg)](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
-&nbsp;&nbsp;
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/eliostruyf.vscode-hugo-themer.svg)](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer)
-&nbsp;&nbsp;
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/eliostruyf.vscode-hugo-themer.svg)](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-hugo-themer&ssr=false#review-details)
+# VSCode Hugo Themer
 
-This VSCode extension is created to make it easier to create and maintain [Hugo](https://gohugo.io/) static site generator themes. 
+This VSCode extension is created to make it easier to create and maintain [Hugo](https://gohugo.io/) static site generator themes.
 
 ## Available functionalities
 

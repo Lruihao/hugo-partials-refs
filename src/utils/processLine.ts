@@ -21,4 +21,4 @@ export const processLine = async (document: TextDocument, position: Position, to
   }
 
   return undefined;
-}
+};
